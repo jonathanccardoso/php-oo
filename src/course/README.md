@@ -1,4 +1,4 @@
-# PHP-POO -> TIPS OF UNDERSTANDING
+# PHP-POO
 
 ## Pillars of POO ##
 
