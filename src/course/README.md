@@ -2,7 +2,20 @@
 
 ## DICAS DE COMPREENSÃO ##
 
-- Objetos
+PILARES DO POO
+- Herança, Capsulamento, Polimorfismo.
+
+-Encapsulamento
+Ajuda em:
+(1)Tornar mudanças invisíveis
+(2)Facilitar reutilização do codigo
+(3)Reduzir efeitos colaterais.
+
+- Herança
+Funciona como se fosse uma parentesco.
+Ex: Um filho herda heranças genéticas do pai e nas classes eles têm os mesmos atributos e funções da classe pai.
+
+- Objets
 Algo material ou abstrata podendo ter sentidos e descritiva por meio de 'caracteristica, comportamento e estado' atual, onde tem ATRIBUTOS, MÉTODOS, ESTADO;
 
 Ex: CANETA
@@ -31,10 +44,5 @@ Acessar de dentro da função e derivadas como heranças.
 - Public 
 Acessa de todos os lugares do código.
 
-- Construtor
+- Construct
 Função que incrementa atributos facilmente sem 'sets' na classe.
-
-- Herança
-Funciona como se fosse uma parentesco.
-Ex: Um filho herda heranças genéticas do pai e nas classes eles têm os mesmos atributos e funções da classe pai.
-
