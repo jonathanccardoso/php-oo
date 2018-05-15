@@ -10,7 +10,7 @@ Ajuda em:
 - Facilitar reutilização do codigo
 - Reduzir efeitos colaterais.
 
-## Herança ##
+## extends (Herança) ##
 Funciona como se fosse uma parentesco.
 Ex: Um filho herda heranças genéticas do pai e nas classes eles têm os mesmos atributos e funções da classe pai.
 
