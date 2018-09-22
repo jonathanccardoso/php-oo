@@ -1,6 +1,6 @@
-# PHP-POO -> TIPS OF UNDERSTANDING
+# PHP - POO
 
-## Pillars of POO ##
+## Pillars of POO
 
 - Herança, Capsulamento, Polimorfismo.
 
@@ -18,16 +18,18 @@ Ex: Um filho herda heranças genéticas do pai e nas classes eles têm os mesmos
 Algo material ou abstrata podendo ter sentidos e descritiva por meio de 'caracteristica, comportamento e estado' atual, onde tem ATRIBUTOS, MÉTODOS, ESTADO;
 
 Ex: CANETA
--ATRIBUTOS: modelo, cor, ponta, tampada
+```-ATRIBUTOS: modelo, cor, ponta, tampada
 -MÉTODOS (função): escrever, rabiscar, pintar, tampar, destampar
 -ESTADO: aberto, fechado.
+```
 
 Podendo ser INSTANCIADA que é adições no construtor da classe.
-Ex: 
+```Ex:
 c1 = new Caneta;
 c1.cor = "Azul";
 c1.tampada = false;
 c1.rabiscar();
+```
 
 Têm propriedades e comportamentos;
 Cada objeto tem uma responsabilidade, mas pode se relacionar com outros objetos;
