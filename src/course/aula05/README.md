@@ -13,7 +13,6 @@ Conhecimento e conhecimentos para concursos públicos.
 
 *	Métodos que dão acesso aos dados internos é o ACESSOR;
 
-
 *	Define o que uma entidade pode fazer com o objeto é a INTERFACE;
 *	Instanciação de uma classe é o OBJETO;
 *	Define os atributos e comportamentos compartilhados é a CLASSE;
