@@ -64,8 +64,8 @@ O mesmo nome representa vários comportamentos diferentes. "Muitas formas de aco
 	Acontece com assinaturas diferentes, na mesma classe.
 	* No php ele não suportsa a sobrecarga. Logo assim você tem que mudar os nomes dos metodos.
 
-## Exercises
-- Nome da prorria classe 
+## Exercises one
+* Nome da prorria classe 
 - __construct A atribuição acontece mesmo se não instanciada.
 
 * Classe mãe (superclasse)
@@ -74,3 +74,11 @@ O mesmo nome representa vários comportamentos diferentes. "Muitas formas de aco
 * um metodo abstrato é um metodo declarado e não de implementado, assim como nas interfaces
 * pode-se sim sobrepor um comportamento de uma superclasse em uma subclasse.
 * 'final' -> não pode ter subclasses, contudo ela pode ser instanciada e ter métodos.
+
+## Exercises two
+* "de inclusão", "paramétrico", "sobrecarga" e "sobreposição" são conceitos do Polimorfismo.
+
+* classe abstrata - nunca será instanciado
+* classe final - deve ser implementação na subclasse
+* método abstrato - não pode ser superclasse
+* método final - não pode ser sobrescrito
